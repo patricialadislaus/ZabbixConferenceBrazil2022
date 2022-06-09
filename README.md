@@ -1,5 +1,5 @@
 # ZabbixConferenceBrazil2022
-Repo com materiais referentes à talk "Zabbix + Vault"
+Repo com materiais referentes à talk "Zabbix + Vault" e do Workshop de Self-Monitoring
 
 ## PDF dos slides apresentados na Conference:
 https://drive.google.com/file/d/1PN-LM4j6yef7Q0-x0JETTI1MWPhJ0Mjp/view?usp=sharing
