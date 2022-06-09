@@ -1,6 +1,9 @@
 # ZabbixConferenceBrazil2022
 Repo com materiais referentes à talk "Zabbix + Vault"
 
+## PDF dos slides apresentados na Conference:
+https://drive.google.com/file/d/1PN-LM4j6yef7Q0-x0JETTI1MWPhJ0Mjp/view?usp=sharing
+
 ## Links importantes sobre o assunto na documentação oficial da Zabbix: 
 
 https://www.zabbix.com/documentation/current/en/manual/config/secrets (Storage of secrets)
